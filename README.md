@@ -1,2 +1,2 @@
 # hello-world
-I like breakfest tacos and comic books
+I like breakfast tacos and comic books
